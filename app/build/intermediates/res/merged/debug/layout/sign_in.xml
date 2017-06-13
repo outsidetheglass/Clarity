@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:text="@string/welcome"
+        android:textSize="26sp"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="75dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        />
+    <TextView
+        android:text="@string/app_name"
+        android:textSize="50sp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="105dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shadowColor="#000000"
+        android:typeface="serif"
+        android:textColorHighlight="#060606" />
+
+    <TextView
+        android:text="@string/button_sign_in"
+        android:textSize="30sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        />
+    <TextView
+        android:textSize="25dp"
+        android:text="@string/email"
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:layout_marginLeft="25dp"
+        android:text="@string/type_email"
+        android:ems="10"
+        android:id="@+id/email" />
+    <TextView
+        android:text="@string/password"
+        android:textSize="25dp"
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:inputType="textPassword"
+        android:text="@string/password"
+        android:ems="10"
+        android:id="@+id/password" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/forgot_password"
+        android:textSize="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginBottom="10dp"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_sign_in"
+        android:id="@+id/email_sign_in_button"
+        android:textSize="25dp"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="screenshot_list">
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>20 Minutes</item>
+    </string-array>
+
+    <string-array name="email_list">
+        <item>Every Hour</item>
+        <item>Once a Day</item>
+        <item>Twice a Day</item>
+    </string-array>
+
+</resources>

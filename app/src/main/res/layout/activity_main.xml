@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/grid">
+
+    <TextView
+        android:text="@string/app_name"
+        android:textSize="@dimen/title"
+        android:layout_marginTop="@dimen/title_from_top"
+        android:layout_marginBottom="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_settings"
+        android:textSize="@dimen/button_text_size"
+        android:layout_margin="@dimen/divider_margin"
+        android:id="@+id/button_settings"
+        android:layout_gravity="center" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/divider_margin"
+        android:text="@string/button_contacts"
+        android:textSize="@dimen/button_text_size"
+        android:id="@+id/button_contacts"
+        android:layout_gravity="center" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_margin="@dimen/divider_margin"
+        android:layout_height="wrap_content"
+        android:text="@string/title_activity_screenshot"
+        android:textSize="@dimen/button_text_size"
+        android:id="@+id/button_screenshot"
+        android:layout_gravity="center" />
+
+    </LinearLayout>

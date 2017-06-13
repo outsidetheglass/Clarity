@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:text="@string/email_rate"
+        android:textSize="@dimen/title"
+        android:layout_margin="55dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/email_frequency"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="once"
+            android:id="@+id/once_Day"
+            android:defaultValue="true"
+            android:onClick="onEmailButtonClicked"
+            android:textSize="30sp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginBottom="10dp"
+            />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="twice"
+            android:id="@+id/twice_Day"
+            android:textSize="30sp"
+            android:defaultValue="false"
+            android:onClick="onEmailButtonClicked"
+            android:layout_marginLeft="60dp"
+            android:layout_marginBottom="10dp" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="hour"
+            android:onClick="onEmailButtonClicked"
+            android:id="@+id/every_hour"
+            android:defaultValue="false"
+            android:textSize="30sp"
+            android:layout_marginLeft="60dp"/>
+    </RadioGroup>
+</LinearLayout>

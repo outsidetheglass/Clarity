@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/intermediates/res/merged/debug/menu/fragment_details_menu.xml",
+        "source": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/src/main/res/menu/fragment_details_menu.xml"
+    },
+    {
+        "merged": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/intermediates/res/merged/debug/menu/menu_settings_activity.xml",
+        "source": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/src/main/res/menu/menu_settings_activity.xml"
+    }
+]

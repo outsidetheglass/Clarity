@@ -1,0 +1,27 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:entries="@array/email_list"
+        android:entryValues="@array/email_list"
+        android:key="pref_freq_of_email"
+        android:title="@string/number_of_email_daily"
+        android:summary="@string/number_of_email_description"
+        android:persistent="true"
+        android:defaultValue="true"
+        />
+    <ListPreference
+        android:entries="@array/screenshot_list"
+        android:entryValues="@array/screenshot_list"
+        android:key="pref_freq_of_screenshot"
+        android:title="@string/number_of_screenshot"
+        android:summary="@string/number_of_screenshot_description"
+        android:persistent="true"
+        android:defaultValue="true"
+        />
+
+    <ListPreference
+        android:ems="10"
+        android:key="contacts"
+        android:id="@+id/contacts"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/email" />
+</PreferenceScreen>

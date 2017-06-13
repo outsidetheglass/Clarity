@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="screenshot_5" type="id">5 Minutes</item>
+    <item name="screenshot_10" type="id">10 Minutes</item>
+    <item name="screenshot_20" type="id">20 Minutes</item>
+    <item name="screenshot" type="id">Screenshot Frequency</item>
+    <item name="email_frequency" type="id">Email Frequency</item>
+    <item name="button_screenshots" type="id">Screenshots</item>
+    <item name="button_delete" type="id">Delete</item>
+    <item name="button_delete_app" type="id">Delete App</item>
+    <item name="button_contacts" type="id">Contacts</item>
+    <item name="button_email" type="id">Email</item>
+    <item name="contacts_view" type="id">Contacts Here</item>
+    <item name="add_contacts" type="id">Add Contacts</item>
+</resources>

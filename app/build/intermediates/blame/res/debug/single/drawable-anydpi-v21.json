@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_mode_edit_24dp.xml",
+        "source": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_mode_edit_24dp.xml"
+    },
+    {
+        "merged": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_settings_24dp.xml",
+        "source": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_settings_24dp.xml"
+    },
+    {
+        "merged": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_add_24dp.xml",
+        "source": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add_24dp.xml"
+    },
+    {
+        "merged": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_save_24dp.xml",
+        "source": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_save_24dp.xml"
+    },
+    {
+        "merged": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_delete_24dp.xml",
+        "source": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_delete_24dp.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/build/intermediates/res/merged/debug/mipmap-mdpi/magnifying_glass.png",
+        "source": "/home/outsideaglass/Documents/Code/Projects/Apps/Clarity/app/src/main/res/mipmap-mdpi/magnifying_glass.png"
+    }
+]
